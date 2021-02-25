@@ -47,10 +47,11 @@ header a{
     background-color: white;
     color: black;
     font-weight: 700;
+    font-size: 10px;
     box-shadow: 2px 2px 5px gray;
     text-decoration: none;
     border-radius: 40px;    
-    padding: 5px 30px;
+    padding: 5px 40px;
 }
 .content{
     display: flex;
