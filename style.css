@@ -41,7 +41,6 @@ header{
 }
 header img{
     width: 100px;   
-     
 }
 header a{
     background-color: white;
@@ -52,6 +51,7 @@ header a{
     text-decoration: none;
     border-radius: 40px;    
     padding: 5px 40px;
+    margin: 0;
 }
 .content{
     display: flex;
